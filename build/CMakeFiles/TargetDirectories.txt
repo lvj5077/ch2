@@ -1,0 +1,6 @@
+/root/ch2/build/CMakeFiles/rebuild_cache.dir
+/root/ch2/build/CMakeFiles/edit_cache.dir
+/root/ch2/build/CMakeFiles/useHello.dir
+/root/ch2/build/CMakeFiles/hello_shared.dir
+/root/ch2/build/CMakeFiles/helloSLAM.dir
+/root/ch2/build/CMakeFiles/hello.dir
